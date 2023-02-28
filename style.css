@@ -28,3 +28,9 @@ li {
     border-radius: 2%;
     background-color: rgba(75, 75, 75, 36%);
 }
+
+.e1 {
+    text-align: center;
+    margin: 10px;
+    border-radius: 50%;
+}
